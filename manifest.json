@@ -1,0 +1,10 @@
+{
+    "manifest_version" : 3,
+    "name": "Auto-filler",
+    "version": "1",
+    "permissions": ["activeTab","scripting"],
+    "action": {
+        "default_popup": "pop.html",
+        "default_icon": "icon.png"
+    }
+}
